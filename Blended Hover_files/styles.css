@@ -1,0 +1,28 @@
+body{
+    background: black;
+    color:white;
+}
+
+
+.landing{
+    display: flex;
+    justify-content: space-around;
+    height:100vh;
+}
+
+.distortion{
+    width: 640px;
+    height:620px;
+}
+
+.intro{
+    align-self: center;
+    width: 100%;
+}
+.intro h2{
+    font-size: 50px;
+}
+
+.intro p{
+    font-size: 15px;
+}
